@@ -1,7 +1,6 @@
-# Commit Message:
+# Random Phrase Generator:
 Initial commit: Random Quote Generator App
 
-Commit Description:
 This commit introduces the Random Quote Generator application, developed for educational purposes using Android Studio with Java and Kotlin.
 
 Key Features:
@@ -13,9 +12,8 @@ This project demonstrates fundamental Android development skills, including UI d
 
 -----------------------------------------------------------------------------------------------------------------
 
-Commit inicial: Aplicativo Gerador de Frases Aleatórias
+# Commit inicial: Aplicativo Gerador de Frases Aleatórias
 
-Descrição do Commit:
 Este commit introduz o aplicativo Gerador de Frases Aleatórias, desenvolvido para fins educacionais usando Android Studio com Java e Kotlin.
 
 Principais Funcionalidades:
