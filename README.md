@@ -12,7 +12,7 @@ This project demonstrates fundamental Android development skills, including UI d
 
 -----------------------------------------------------------------------------------------------------------------
 
-# Commit inicial: Aplicativo Gerador de Frases Aleatórias
+# Aplicativo Gerador de Frases Aleatórias
 
 Este commit introduz o aplicativo Gerador de Frases Aleatórias, desenvolvido para fins educacionais usando Android Studio com Java e Kotlin.
 
